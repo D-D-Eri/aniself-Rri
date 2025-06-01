@@ -278,7 +278,7 @@ ${Object.keys(animeData)
         </div>
 
         <div className="mt-2 text-center">
-          历年关注最多的动画，数据来自大脑搜索，由鸡爪的爪机制作，源代码感谢
+          由鸡爪的爪机制作，源代码感谢
           <a
             href="https://x.com/localhost_4173"
             target="_blank"
